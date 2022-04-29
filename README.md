@@ -1,6 +1,8 @@
 # lightnovels
 
 NOTE: Make sure you have initialized your repo, and set your remote with name "origin" and branch "master" to track your own remote. Easiest way to ensure this is to fork this repo.
+
+[Example of my lightnovel repo](https://github.com/AsianKoala/lightnovels)
  
 ## Updating a repository
 1. Set amount of chunks in `git_folder_handler.py` to your desired number
